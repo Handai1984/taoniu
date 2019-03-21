@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "2a1d8114-fe14-4a98-a2d3-77c39d784714",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "结算界面": {
+      "ver": "1.0.3",
+      "uuid": "1219a5d9-3634-4c44-83f9-51b3a8892a45",
+      "rawTextureUuid": "2a1d8114-fe14-4a98-a2d3-77c39d784714",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 500,
+      "height": 766,
+      "rawWidth": 500,
+      "rawHeight": 766,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
